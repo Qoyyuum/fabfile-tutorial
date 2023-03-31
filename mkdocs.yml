@@ -1,0 +1,15 @@
+site_name: Fabric Tutorial
+theme:
+  name: darkly
+  highlightjs: true
+  hljs_highlights:
+    - python
+    - vagrant
+  nav_style: dark
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+plugins:
+  - search
